@@ -27,7 +27,7 @@ https://go.microsoft.com/fwlink/?linkid=2356945
 
 # Pre-requisites
 
-## Option 1: VS Code Web (Bash Shell)
+## Option 1: VS Code Web (Bash Shell), Link to Open : https://vscode.dev/azure
 
 ### Verify Python Installation
 
