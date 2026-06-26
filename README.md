@@ -25,6 +25,31 @@ https://go.microsoft.com/fwlink/?linkid=2356945
 
 ---
 
+# Lab Guide – Day 2
+
+## Labs
+
+### Lab 4: Build an AI agent using AI Foundry 
+
+🔗 Lab Link:  
+https://go.microsoft.com/fwlink/?linkid=2352649
+
+---
+
+### Lab 5: Implement a multi-agent workflow 
+
+🔗 Lab Link: https://github.com/srtvabhi/Microsoft-AI-Foundry-with-Generative-AI-Agentic-AI---GEP/blob/feaac48ded009360fb0068c5c6ba8bf4cd040130/Lab%20-5/workflow.pdf
+
+---
+
+### Lab 6: Integrate agents with data/tools for contextual insights
+
+🔗 Lab Link:  
+https://go.microsoft.com/fwlink/?linkid=2353400
+
+---
+
+
 # Pre-requisites
 
 ## Option 1: VS Code Web (Bash Shell), Link to Open : https://vscode.dev/azure
