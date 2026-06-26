@@ -147,7 +147,16 @@ pip list
 ---
 
 
-**Training:** Microsoft AI Foundry with Generative AI & Agentic AI for Contextual Analytics  
-**Day:** 1  
-**Duration:** 4 Hours
+# 📚 Learning Resources
 
+## 1. Develop Generative AI Apps in Azure
+Learn how to build, deploy, and integrate Generative AI applications using Azure AI services and Azure AI Foundry.
+
+🔗 https://learn.microsoft.com/en-us/training/paths/develop-generative-ai-apps/
+
+---
+
+## 2. Develop AI Agents on Azure
+Learn how to design, build, and deploy AI agents using Azure AI technologies, including agent orchestration and automation.
+
+🔗 https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure/
